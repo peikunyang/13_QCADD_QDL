@@ -4,8 +4,6 @@
 ---
 
 ## 📌 Project Information
-
-- **Title**: Quantum Machine Learning for Predicting Binding Free Energies in SBVS  
 - **Author**: Pei-Kun Yang  
 - **Contact**: [peikun@isu.edu.tw](mailto:peikun@isu.edu.tw)
 
@@ -17,7 +15,7 @@ We recommend using a virtual environment. To install the required packages:
 
 ```bash
 pip install numpy torch pennylane
-
+---
 ## 📁 Project Structure
 
 The repository contains the following directories:
@@ -40,4 +38,5 @@ The repository contains the following directories:
 
 - **6_ana/**  
   Analyzes and visualizes the results (e.g., error trends, performance metrics).
+---
 
