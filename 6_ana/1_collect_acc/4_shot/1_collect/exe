@@ -1,0 +1,2 @@
+python collect.py > rmsd
+

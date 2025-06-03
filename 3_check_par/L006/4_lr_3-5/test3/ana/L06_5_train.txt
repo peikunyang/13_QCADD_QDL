@@ -1,0 +1,2 @@
+RMSD: 2.243349
+Pearson Correlation: 0.491929

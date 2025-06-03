@@ -1,0 +1,4 @@
+rm Result/*
+date
+python3 shot.py
+date
