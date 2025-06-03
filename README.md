@@ -16,6 +16,7 @@ We recommend using a virtual environment. To install the required packages:
 ```bash
 pip install numpy torch pennylane
 ---
+
 ## 📁 Project Structure
 
 The repository contains the following directories:
