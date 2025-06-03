@@ -2,10 +2,10 @@
 
 ---
 
-## 📌 Project Information
+## 👤 Author Information
 
-- **Author**: Pei-Kun Yang  
-- **Contact**: [peikun@isu.edu.tw](mailto:peikun@isu.edu.tw)
+- **Name**: Pei-Kun Yang  
+- **Email**: [peikun@isu.edu.tw](mailto:peikun@isu.edu.tw)
 
 ---
 
