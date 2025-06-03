@@ -25,7 +25,7 @@ The repository contains the following directories:
   Prepares the datasets for training and testing, including molecular structures and labels.
 
 - **2_train/**  
-  Contains the training scripts for optimizing quantum circuit parameters using PennyLane and PyTorch.
+  Contains the training scripts for optimizing quantum circuit parameters using PyTorch.
 
 - **3_check_par/**  
   Loads the datasets from `1_database` and the trained parameters from `2_train`.  
